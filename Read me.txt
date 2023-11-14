@@ -1,0 +1,23 @@
+Market Simulation Script
+
+This Python script simulates a market scenario with buyers and sellers, tracking successful and unsuccessful trades. The results are visualized using a bar chart created with matplotlib.
+------------------------------------------------------------
+Prerequisites:
+
+Python 3.x
+matplotlib library
+------------------------------------------------------------
+Installation:
+
+Clone the repository:
+git clone https://github.com/MaenDera/Market-Simulation.git
+
+
+Install required dependencies:
+pip install matplotlib
+
+Customization
+You can customize the simulation by modifying the following parameters in the script:
+
+num_buyers: Number of buyers in the simulation.
+num_sellers: Number of sellers in the simulation.
